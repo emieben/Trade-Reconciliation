@@ -41,10 +41,10 @@ Step 2: Combine the  Trades for Each Month
  
 | Month | Your Total         | Clearer’s Total     | Match?               |
 |-------|--------------------|---------------------|----------------------|
-| Mar   | 100MWh @ €30       | 100MWh @ €30        | ✅ Yes               |
-| Apr   | 300MWh @ €31.67    | 500MWh @ €32        | ❌ 200MWh missing!   |
-| May   | 350MWh @ €32.29    | 550MWh @ €32.5      | ❌ 200MWh missing!   |
-| Jun   | 100MWh @ €33       | 300MWh @ €33        | ❌ 200MWh missing!   |
+| Mar   | 100MWh @ €30       | 100MWh @ €30        | Yes                  |
+| Apr   | 300MWh @ €31.67    | 500MWh @ €32        |  200MWh missing!     |
+| May   | 350MWh @ €32.29    | 550MWh @ €32.5      | 200MWh missing!      |
+| Jun   | 100MWh @ €33       | 300MWh @ €33        | 200MWh missing!      |
 
 
 Step 4: Find the Mismatches
