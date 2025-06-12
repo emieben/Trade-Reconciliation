@@ -47,9 +47,4 @@ Step 2: Combine the  Trades for Each Month
 | Jun   | 100MWh @ €33       | 300MWh @ €33        | 200MWh missing       |
 
 
-Step 4: Find the Mismatches
-* The  records don’t explain the extra 200MWh the clearer shows for April, May, June.
-* Possible reasons:
-    * Forgot to record some trades.
-    * The quarterly trade was actually larger than 300MWh.
-    * The clearer made a mistake (rare, but possible).
+
