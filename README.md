@@ -34,7 +34,7 @@ Step 2: Combine Your Trades for Each Month
 * March & June are simpler (no overlap)
   
  Step 3: Compare with Clearer’s Numbers
-Month	Your Total	Clearer’s Total	Match?
+Month	Your Total	Clearer’s Total	Match
 
 Mar	
 
